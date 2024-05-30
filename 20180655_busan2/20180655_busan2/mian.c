@@ -1,3 +1,6 @@
+// 3-4. 스테이지4: 변이
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
